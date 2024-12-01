@@ -1,0 +1,39 @@
+/* General Styling */
+.countdown-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: fadeIn 1s ease-in-out;
+  position: relative;
+}
+
+.countdown-number {
+  font-size: 3.5rem;
+  padding: 20px;
+  background: linear-gradient(135deg, #ff416c, #ff4b2b);
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+  font-weight: bold;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+.countdown-label {
+  font-size: 1.2rem;
+  margin-top: 10px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #ffffffa6;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}

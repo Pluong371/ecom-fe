@@ -1,0 +1,3598 @@
+{
+  "newProduct": [
+    {
+      "product": {
+        "id": 36,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 36,
+        "language": "vi",
+        "name": "Sản phẩm 36",
+        "description": "Mô tả sản phẩm 36",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 106,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 39,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 39,
+        "language": "vi",
+        "name": "Sản phẩm 39",
+        "description": "Mô tả sản phẩm 39",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 115,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 116,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 117,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 42,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 42,
+        "language": "vi",
+        "name": "Sản phẩm 42",
+        "description": "Mô tả sản phẩm 42",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 124,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 125,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 126,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 45,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 45,
+        "language": "vi",
+        "name": "Sản phẩm 45",
+        "description": "Mô tả sản phẩm 45",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 133,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 134,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 135,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 48,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 48,
+        "language": "vi",
+        "name": "Sản phẩm 48",
+        "description": "Mô tả sản phẩm 48",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 142,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 143,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 144,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 51,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 51,
+        "language": "vi",
+        "name": "Sản phẩm 51",
+        "description": "Mô tả sản phẩm 51",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 151,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 152,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 153,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    }
+  ],
+  "bestSeller": [
+    {
+      "product": {
+        "id": 36,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 36,
+        "language": "vi",
+        "name": "Sản phẩm 36",
+        "description": "Mô tả sản phẩm 36",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 106,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 107,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 108,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 38,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 38,
+        "language": "vi",
+        "name": "Sản phẩm 38",
+        "description": "Mô tả sản phẩm 38",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 112,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 113,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 114,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 40,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 40,
+        "language": "vi",
+        "name": "Sản phẩm 40",
+        "description": "Mô tả sản phẩm 40",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 118,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 119,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 120,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 42,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 42,
+        "language": "vi",
+        "name": "Sản phẩm 42",
+        "description": "Mô tả sản phẩm 42",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 124,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 125,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 126,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 44,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 44,
+        "language": "vi",
+        "name": "Sản phẩm 44",
+        "description": "Mô tả sản phẩm 44",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 130,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 131,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 132,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 46,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 46,
+        "language": "vi",
+        "name": "Sản phẩm 46",
+        "description": "Mô tả sản phẩm 46",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 136,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 137,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 138,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 48,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 48,
+        "language": "vi",
+        "name": "Sản phẩm 48",
+        "description": "Mô tả sản phẩm 48",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 142,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 143,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 144,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 50,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 50,
+        "language": "vi",
+        "name": "Sản phẩm 50",
+        "description": "Mô tả sản phẩm 50",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 148,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 149,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 150,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    }
+  ],
+  "allProduct": [
+    {
+      "product": {
+        "id": 36,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 36,
+        "language": "vi",
+        "name": "Sản phẩm 36",
+        "description": "Mô tả sản phẩm 36",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 106,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 107,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 108,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 37,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 37,
+        "language": "vi",
+        "name": "Sản phẩm 37",
+        "description": "Mô tả sản phẩm 37",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 109,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 110,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 111,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 38,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 38,
+        "language": "vi",
+        "name": "Sản phẩm 38",
+        "description": "Mô tả sản phẩm 38",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 112,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 113,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 114,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 39,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 39,
+        "language": "vi",
+        "name": "Sản phẩm 39",
+        "description": "Mô tả sản phẩm 39",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 115,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 116,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 117,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 40,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 40,
+        "language": "vi",
+        "name": "Sản phẩm 40",
+        "description": "Mô tả sản phẩm 40",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 118,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 119,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 120,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 41,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 41,
+        "language": "vi",
+        "name": "Sản phẩm 41",
+        "description": "Mô tả sản phẩm 41",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 121,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 122,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 123,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 42,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 42,
+        "language": "vi",
+        "name": "Sản phẩm 42",
+        "description": "Mô tả sản phẩm 42",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 124,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 125,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 126,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 43,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 43,
+        "language": "vi",
+        "name": "Sản phẩm 43",
+        "description": "Mô tả sản phẩm 43",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 127,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 128,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 129,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 44,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 44,
+        "language": "vi",
+        "name": "Sản phẩm 44",
+        "description": "Mô tả sản phẩm 44",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 130,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 131,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 132,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 45,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 45,
+        "language": "vi",
+        "name": "Sản phẩm 45",
+        "description": "Mô tả sản phẩm 45",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 133,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 134,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 135,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 46,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 46,
+        "language": "vi",
+        "name": "Sản phẩm 46",
+        "description": "Mô tả sản phẩm 46",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 136,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 137,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 138,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 47,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 47,
+        "language": "vi",
+        "name": "Sản phẩm 47",
+        "description": "Mô tả sản phẩm 47",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 139,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 140,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 141,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 48,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 48,
+        "language": "vi",
+        "name": "Sản phẩm 48",
+        "description": "Mô tả sản phẩm 48",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 142,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 143,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 144,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 49,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 49,
+        "language": "vi",
+        "name": "Sản phẩm 49",
+        "description": "Mô tả sản phẩm 49",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 145,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 146,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 147,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 50,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 50,
+        "language": "vi",
+        "name": "Sản phẩm 50",
+        "description": "Mô tả sản phẩm 50",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 148,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 149,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 150,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 51,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 51,
+        "language": "vi",
+        "name": "Sản phẩm 51",
+        "description": "Mô tả sản phẩm 51",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 151,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 152,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 153,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 52,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 52,
+        "language": "vi",
+        "name": "Sản phẩm 52",
+        "description": "Mô tả sản phẩm 52",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 154,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 155,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 156,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 53,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 53,
+        "language": "vi",
+        "name": "Sản phẩm 53",
+        "description": "Mô tả sản phẩm 53",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 157,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 158,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 159,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 54,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 54,
+        "language": "vi",
+        "name": "Sản phẩm 54",
+        "description": "Mô tả sản phẩm 54",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 160,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 161,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 162,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 55,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 55,
+        "language": "vi",
+        "name": "Sản phẩm 55",
+        "description": "Mô tả sản phẩm 55",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 163,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 164,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 165,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 56,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 56,
+        "language": "vi",
+        "name": "Sản phẩm 56",
+        "description": "Mô tả sản phẩm 56",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 166,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 167,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 168,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 57,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 57,
+        "language": "vi",
+        "name": "Sản phẩm 57",
+        "description": "Mô tả sản phẩm 57",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 169,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 170,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 171,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 58,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 58,
+        "language": "vi",
+        "name": "Sản phẩm 58",
+        "description": "Mô tả sản phẩm 58",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 172,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 173,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 174,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 59,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 59,
+        "language": "vi",
+        "name": "Sản phẩm 59",
+        "description": "Mô tả sản phẩm 59",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 175,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 176,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 177,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 60,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": true,
+        "newProduct": true,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 60,
+        "language": "vi",
+        "name": "Sản phẩm 60",
+        "description": "Mô tả sản phẩm 60",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 178,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 179,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 180,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    },
+    {
+      "product": {
+        "id": 61,
+        "published": true,
+        "categoryId": null,
+        "createBy": null,
+        "updateBy": null,
+        "createAt": null,
+        "updateAt": null,
+        "hotProduct": false,
+        "newProduct": false,
+        "image": "https://tiki.vn/blog/wp-content/uploads/2023/01/oLkoHpw9cqRtLPTbg67bgtUvUdV1BnXRnAqqBZOVkEtPgf-_Ct3ADFJYXIjfDd0fTyECLEsWq5yZ2CCOEGxIsuHSmNNNUZQcnQT5-Ld6yoK19Q_Sphb0MmX64ga-O_TIPjItNkTL5ns4zqP1Z0OBzsIoeYKtcewnrjnVsw8vfG8uYwwCDkXaoozCrmH1kA.jpg, https://daihocdaivietsaigon.edu.vn/wp-content/uploads/2023/02/1676242016_111-Hinh-Anh-Avatar-Nu-Dep-Phong-Cach-CHILL-HET.jpg",
+        "video": null,
+        "deletedAt": null
+      },
+      "translation": {
+        "id": 61,
+        "language": "vi",
+        "name": "Sản phẩm 61",
+        "description": "Mô tả sản phẩm 61",
+        "createdAt": null,
+        "updatedAt": null,
+        "productId": null
+      },
+      "skus": [
+        {
+          "productSKU": {
+            "id": 181,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image1.jpg",
+            "quantity": 50,
+            "price": 110.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 182,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image2.jpg",
+            "quantity": 50,
+            "price": 120.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        },
+        {
+          "productSKU": {
+            "id": 183,
+            "createdAt": null,
+            "updatedAt": null,
+            "createBy": null,
+            "updateBy": null,
+            "productId": null,
+            "image": "sku_image3.jpg",
+            "quantity": 50,
+            "price": 130.00
+          },
+          "variants": {
+            "variantKey2": "Giá trị 2",
+            "variantKey1": "Giá trị 1"
+          }
+        }
+      ]
+    }
+  ],
+  "cart":[
+    {
+      "item": {
+        "id": 2,
+        "productId": {
+          "id": 3,
+          "createdAt": 1729872947000,
+          "updatedAt": 1729872947000,
+          "createBy": null,
+          "updateBy": null,
+          "productId": {
+            "id": 1,
+            "published": true,
+            "categoryId": {
+              "id": 13,
+              "parentId": null,
+              "image": "category_image4.jpg",
+              "createdAt": 1729872947000,
+              "updatedAt": 1729872947000,
+              "deletedAt": null
+            },
+            "createBy": null,
+            "updateBy": null,
+            "createAt": 1729872947000,
+            "updateAt": 1729872947000,
+            "hotProduct": false,
+            "newProduct": false,
+            "image": "[\"https://www.thegioididong.com/tai-nghe-bluetooth\", \"https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_169_2.png\", \"https://cdn.tgdd.vn/Files/2023/03/29/1522094/30-010423-223344.jpg\"]",
+            "video": null,
+            "deletedAt": null,
+            "rating": 4.5
+          },
+          "image": "https://www.google.com/imgres?q=tai%20nghe%20bluetooth&imgurl=http%3A%2F%2Fcdn.dienmaygiakhanh.com%2FProducts%2FImages%2F54%2F243041%2Fbluetooth-true-wireless-jbl-t115twswhtas-thumb-1-600x600.jpeg&imgrefurl=https%3A%2F%2Fdienmaygiakhanh.com%2Fphu-kien%2Ftai-nghe-bluetooth-true-wireless-jbl-t115tws-p17354.html&docid=xguGn6OLZXyHYM&tbnid=1VxLbA3kX_LNJM&vet=12ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA",
+          "quantity": 50,
+          "price": 130.00
+        },
+        "quantity": 3,
+        "createdAt": null,
+        "updatedAt": null,
+        "price": null,
+        "cart": {
+          "id": 1,
+          "user": null,
+          "createdAt": "25-10-2024 16:16:36",
+          "updatedAt": "25-10-2024 16:16:36"
+        }
+      },
+      "productResponse": {
+        "product": {
+          "id": 1,
+          "published": true,
+          "categoryId": null,
+          "createBy": null,
+          "updateBy": null,
+          "createAt": 1729872947000,
+          "updateAt": 1729872947000,
+          "hotProduct": false,
+          "newProduct": false,
+          "image": "[\"https://www.thegioididong.com/tai-nghe-bluetooth\", \"https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_169_2.png\", \"https://cdn.tgdd.vn/Files/2023/03/29/1522094/30-010423-223344.jpg\"]",
+          "video": null,
+          "deletedAt": null,
+          "rating": 0.0
+        },
+        "translation": {
+          "id": 1,
+          "language": "vi",
+          "name": "Sản phẩm 1",
+          "description": "Mô tả sản phẩm 1",
+          "createdAt": 1729872947000,
+          "updatedAt": 1729872947000,
+          "productId": null
+        },
+        "skus": [
+          {
+            "productSKU": {
+              "id": 3,
+              "createdAt": 1729872947000,
+              "updatedAt": null,
+              "createBy": null,
+              "updateBy": null,
+              "productId": null,
+              "image": "https://www.google.com/imgres?q=tai%20nghe%20bluetooth&imgurl=http%3A%2F%2Fcdn.dienmaygiakhanh.com%2FProducts%2FImages%2F54%2F243041%2Fbluetooth-true-wireless-jbl-t115twswhtas-thumb-1-600x600.jpeg&imgrefurl=https%3A%2F%2Fdienmaygiakhanh.com%2Fphu-kien%2Ftai-nghe-bluetooth-true-wireless-jbl-t115tws-p17354.html&docid=xguGn6OLZXyHYM&tbnid=1VxLbA3kX_LNJM&vet=12ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA",
+              "quantity": 50,
+              "price": 130.00
+            },
+            "variants": {
+              "variantKey2": "Giá trị 2",
+              "variantKey1": "Giá trị 1"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "item": {
+        "id": 2,
+        "productId": {
+          "id": 3,
+          "createdAt": 1729872947000,
+          "updatedAt": 1729872947000,
+          "createBy": null,
+          "updateBy": null,
+          "productId": {
+            "id": 1,
+            "published": true,
+            "categoryId": {
+              "id": 13,
+              "parentId": null,
+              "image": "category_image4.jpg",
+              "createdAt": 1729872947000,
+              "updatedAt": 1729872947000,
+              "deletedAt": null
+            },
+            "createBy": null,
+            "updateBy": null,
+            "createAt": 1729872947000,
+            "updateAt": 1729872947000,
+            "hotProduct": false,
+            "newProduct": false,
+            "image": "[\"https://www.thegioididong.com/tai-nghe-bluetooth\", \"https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_169_2.png\", \"https://cdn.tgdd.vn/Files/2023/03/29/1522094/30-010423-223344.jpg\"]",
+            "video": null,
+            "deletedAt": null,
+            "rating": 4.5
+          },
+          "image": "https://www.google.com/imgres?q=tai%20nghe%20bluetooth&imgurl=http%3A%2F%2Fcdn.dienmaygiakhanh.com%2FProducts%2FImages%2F54%2F243041%2Fbluetooth-true-wireless-jbl-t115twswhtas-thumb-1-600x600.jpeg&imgrefurl=https%3A%2F%2Fdienmaygiakhanh.com%2Fphu-kien%2Ftai-nghe-bluetooth-true-wireless-jbl-t115tws-p17354.html&docid=xguGn6OLZXyHYM&tbnid=1VxLbA3kX_LNJM&vet=12ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA",
+          "quantity": 50,
+          "price": 130.00
+        },
+        "quantity": 3,
+        "createdAt": null,
+        "updatedAt": null,
+        "price": null,
+        "cart": {
+          "id": 1,
+          "user": null,
+          "createdAt": "25-10-2024 16:16:36",
+          "updatedAt": "25-10-2024 16:16:36"
+        }
+      },
+      "productResponse": {
+        "product": {
+          "id": 1,
+          "published": true,
+          "categoryId": null,
+          "createBy": null,
+          "updateBy": null,
+          "createAt": 1729872947000,
+          "updateAt": 1729872947000,
+          "hotProduct": false,
+          "newProduct": false,
+          "image": "[\"https://www.thegioididong.com/tai-nghe-bluetooth\", \"https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_169_2.png\", \"https://cdn.tgdd.vn/Files/2023/03/29/1522094/30-010423-223344.jpg\"]",
+          "video": null,
+          "deletedAt": null,
+          "rating": 0.0
+        },
+        "translation": {
+          "id": 1,
+          "language": "vi",
+          "name": "Sản phẩm 1",
+          "description": "Mô tả sản phẩm 1",
+          "createdAt": 1729872947000,
+          "updatedAt": 1729872947000,
+          "productId": null
+        },
+        "skus": [
+          {
+            "productSKU": {
+              "id": 3,
+              "createdAt": 1729872947000,
+              "updatedAt": null,
+              "createBy": null,
+              "updateBy": null,
+              "productId": null,
+              "image": "https://www.google.com/imgres?q=tai%20nghe%20bluetooth&imgurl=http%3A%2F%2Fcdn.dienmaygiakhanh.com%2FProducts%2FImages%2F54%2F243041%2Fbluetooth-true-wireless-jbl-t115twswhtas-thumb-1-600x600.jpeg&imgrefurl=https%3A%2F%2Fdienmaygiakhanh.com%2Fphu-kien%2Ftai-nghe-bluetooth-true-wireless-jbl-t115tws-p17354.html&docid=xguGn6OLZXyHYM&tbnid=1VxLbA3kX_LNJM&vet=12ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA",
+              "quantity": 50,
+              "price": 130.00
+            },
+            "variants": {
+              "variantKey2": "Giá trị 2",
+              "variantKey1": "Giá trị 1"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "wishlist": [
+    {
+      "favorites": {
+        "id": 1,
+        "userId": {
+          "id": 5,
+          "firstName": "Super",
+          "lastName": "Administrator",
+          "email": "admin@gmail.com",
+          "password": "$2a$10$9VE2wshf2ey9PTOmaQXQq.TywUwIhG8VuXV7qEwAPfn6w3ImHYJZe",
+          "phone": "01012345678",
+          "active": true,
+          "emailActive": true,
+          "createdAt": 1729873670000,
+          "roleId": {
+            "id": 1,
+            "name": "ADMIN"
+          },
+          "addressId": null,
+          "language": "vi",
+          "updatedAt": 1729873670000,
+          "avatar": null,
+          "loginAt": null,
+          "deletedAt": null,
+          "cart": {
+            "id": 1,
+            "user": {
+              "id": 1,
+              "firstName": null,
+              "lastName": null,
+              "email": null,
+              "password": null,
+              "phone": null,
+              "active": false,
+              "emailActive": false,
+              "createdAt": 1729872996000,
+              "roleId": null,
+              "addressId": null,
+              "language": null,
+              "updatedAt": 1729872996000,
+              "avatar": null,
+              "loginAt": null,
+              "deletedAt": null,
+              "cart": {
+                "id": 1,
+                "user": null,
+                "createdAt": "25-10-2024 16:16:36",
+                "updatedAt": "25-10-2024 16:16:36"
+              }
+            },
+            "createdAt": "25-10-2024 16:16:36",
+            "updatedAt": "25-10-2024 16:16:36"
+          }
+        },
+        "productId": {
+          "id": 3,
+          "published": true,
+          "categoryId": {
+            "id": 16,
+            "parentId": 13,
+            "image": "subcategory_image4_3.jpg",
+            "createdAt": 1729872947000,
+            "updatedAt": 1729872947000,
+            "deletedAt": null
+          },
+          "createBy": null,
+          "updateBy": null,
+          "createAt": 1729872947000,
+          "updateAt": 1729872947000,
+          "hotProduct": false,
+          "newProduct": true,
+          "image": "[\"https://www.thegioididong.com/tai-nghe-bluetooth\", \"https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_169_2.png\", \"https://cdn.tgdd.vn/Files/2023/03/29/1522094/30-010423-223344.jpg\"]",
+          "video": null,
+          "deletedAt": null,
+          "rating": 4.5
+        },
+        "createdAt": 1729916619000,
+        "updatedAt": null
+      },
+      "product": {
+        "product": {
+          "id": 3,
+          "published": true,
+          "categoryId": null,
+          "createBy": null,
+          "updateBy": null,
+          "createAt": 1729872947000,
+          "updateAt": 1729872947000,
+          "hotProduct": false,
+          "newProduct": true,
+          "image": "[\"https://www.thegioididong.com/tai-nghe-bluetooth\", \"https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_169_2.png\", \"https://cdn.tgdd.vn/Files/2023/03/29/1522094/30-010423-223344.jpg\"]",
+          "video": null,
+          "deletedAt": null,
+          "rating": 0.0
+        },
+        "translation": {
+          "id": 3,
+          "language": "vi",
+          "name": "Sản phẩm 3",
+          "description": "Mô tả sản phẩm 3",
+          "createdAt": 1729872947000,
+          "updatedAt": 1729872947000,
+          "productId": null
+        },
+        "skus": [
+          {
+            "productSKU": {
+              "id": 7,
+              "createdAt": 1729872947000,
+              "updatedAt": null,
+              "createBy": null,
+              "updateBy": null,
+              "productId": null,
+              "image": "https://www.google.com/imgres?q=tai%20nghe%20bluetooth&imgurl=http%3A%2F%2Fcdn.dienmaygiakhanh.com%2FProducts%2FImages%2F54%2F243041%2Fbluetooth-true-wireless-jbl-t115twswhtas-thumb-1-600x600.jpeg&imgrefurl=https%3A%2F%2Fdienmaygiakhanh.com%2Fphu-kien%2Ftai-nghe-bluetooth-true-wireless-jbl-t115tws-p17354.html&docid=xguGn6OLZXyHYM&tbnid=1VxLbA3kX_LNJM&vet=12ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA",
+              "quantity": 50,
+              "price": 110.00
+            },
+            "variants": {
+              "variantKey2": "Giá trị 2",
+              "variantKey1": "Giá trị 1"
+            }
+          },
+          {
+            "productSKU": {
+              "id": 8,
+              "createdAt": 1729872947000,
+              "updatedAt": null,
+              "createBy": null,
+              "updateBy": null,
+              "productId": null,
+              "image": "https://www.google.com/imgres?q=tai%20nghe%20bluetooth&imgurl=http%3A%2F%2Fcdn.dienmaygiakhanh.com%2FProducts%2FImages%2F54%2F243041%2Fbluetooth-true-wireless-jbl-t115twswhtas-thumb-1-600x600.jpeg&imgrefurl=https%3A%2F%2Fdienmaygiakhanh.com%2Fphu-kien%2Ftai-nghe-bluetooth-true-wireless-jbl-t115tws-p17354.html&docid=xguGn6OLZXyHYM&tbnid=1VxLbA3kX_LNJM&vet=12ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA",
+              "quantity": 50,
+              "price": 120.00
+            },
+            "variants": {
+              "variantKey2": "Giá trị 2",
+              "variantKey1": "Giá trị 1"
+            }
+          },
+          {
+            "productSKU": {
+              "id": 9,
+              "createdAt": 1729872947000,
+              "updatedAt": null,
+              "createBy": null,
+              "updateBy": null,
+              "productId": null,
+              "image": "https://www.google.com/imgres?q=tai%20nghe%20bluetooth&imgurl=http%3A%2F%2Fcdn.dienmaygiakhanh.com%2FProducts%2FImages%2F54%2F243041%2Fbluetooth-true-wireless-jbl-t115twswhtas-thumb-1-600x600.jpeg&imgrefurl=https%3A%2F%2Fdienmaygiakhanh.com%2Fphu-kien%2Ftai-nghe-bluetooth-true-wireless-jbl-t115tws-p17354.html&docid=xguGn6OLZXyHYM&tbnid=1VxLbA3kX_LNJM&vet=12ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA",
+              "quantity": 50,
+              "price": 130.00
+            },
+            "variants": {
+              "variantKey2": "Giá trị 2",
+              "variantKey1": "Giá trị 1"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "favorites": {
+        "id": 2,
+        "userId": {
+          "id": 5,
+          "firstName": "Super",
+          "lastName": "Administrator",
+          "email": "admin@gmail.com",
+          "password": "$2a$10$9VE2wshf2ey9PTOmaQXQq.TywUwIhG8VuXV7qEwAPfn6w3ImHYJZe",
+          "phone": "01012345678",
+          "active": true,
+          "emailActive": true,
+          "createdAt": 1729873670000,
+          "roleId": {
+            "id": 1,
+            "name": "ADMIN"
+          },
+          "addressId": null,
+          "language": "vi",
+          "updatedAt": 1729873670000,
+          "avatar": null,
+          "loginAt": null,
+          "deletedAt": null,
+          "cart": {
+            "id": 1,
+            "user": {
+              "id": 1,
+              "firstName": null,
+              "lastName": null,
+              "email": null,
+              "password": null,
+              "phone": null,
+              "active": false,
+              "emailActive": false,
+              "createdAt": 1729872996000,
+              "roleId": null,
+              "addressId": null,
+              "language": null,
+              "updatedAt": 1729872996000,
+              "avatar": null,
+              "loginAt": null,
+              "deletedAt": null,
+              "cart": {
+                "id": 1,
+                "user": null,
+                "createdAt": "25-10-2024 16:16:36",
+                "updatedAt": "25-10-2024 16:16:36"
+              }
+            },
+            "createdAt": "25-10-2024 16:16:36",
+            "updatedAt": "25-10-2024 16:16:36"
+          }
+        },
+        "productId": {
+          "id": 5,
+          "published": true,
+          "categoryId": {
+            "id": 20,
+            "parentId": 17,
+            "image": "subcategory_image5_3.jpg",
+            "createdAt": 1729872947000,
+            "updatedAt": 1729872947000,
+            "deletedAt": null
+          },
+          "createBy": null,
+          "updateBy": null,
+          "createAt": 1729872947000,
+          "updateAt": 1729872947000,
+          "hotProduct": false,
+          "newProduct": false,
+          "image": "[\"https://www.thegioididong.com/tai-nghe-bluetooth\", \"https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_169_2.png\", \"https://cdn.tgdd.vn/Files/2023/03/29/1522094/30-010423-223344.jpg\"]",
+          "video": null,
+          "deletedAt": null,
+          "rating": 4.5
+        },
+        "createdAt": 1729916668000,
+        "updatedAt": null
+      },
+      "product": {
+        "product": {
+          "id": 5,
+          "published": true,
+          "categoryId": null,
+          "createBy": null,
+          "updateBy": null,
+          "createAt": 1729872947000,
+          "updateAt": 1729872947000,
+          "hotProduct": false,
+          "newProduct": false,
+          "image": "[\"https://www.thegioididong.com/tai-nghe-bluetooth\", \"https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/g/r/group_169_2.png\", \"https://cdn.tgdd.vn/Files/2023/03/29/1522094/30-010423-223344.jpg\"]",
+          "video": null,
+          "deletedAt": null,
+          "rating": 0.0
+        },
+        "translation": {
+          "id": 5,
+          "language": "vi",
+          "name": "Sản phẩm 5",
+          "description": "Mô tả sản phẩm 5",
+          "createdAt": 1729872947000,
+          "updatedAt": 1729872947000,
+          "productId": null
+        },
+        "skus": [
+          {
+            "productSKU": {
+              "id": 13,
+              "createdAt": 1729872947000,
+              "updatedAt": null,
+              "createBy": null,
+              "updateBy": null,
+              "productId": null,
+              "image": "https://www.google.com/imgres?q=tai%20nghe%20bluetooth&imgurl=http%3A%2F%2Fcdn.dienmaygiakhanh.com%2FProducts%2FImages%2F54%2F243041%2Fbluetooth-true-wireless-jbl-t115twswhtas-thumb-1-600x600.jpeg&imgrefurl=https%3A%2F%2Fdienmaygiakhanh.com%2Fphu-kien%2Ftai-nghe-bluetooth-true-wireless-jbl-t115tws-p17354.html&docid=xguGn6OLZXyHYM&tbnid=1VxLbA3kX_LNJM&vet=12ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA",
+              "quantity": 50,
+              "price": 110.00
+            },
+            "variants": {
+              "variantKey2": "Giá trị 2",
+              "variantKey1": "Giá trị 1"
+            }
+          },
+          {
+            "productSKU": {
+              "id": 14,
+              "createdAt": 1729872947000,
+              "updatedAt": null,
+              "createBy": null,
+              "updateBy": null,
+              "productId": null,
+              "image": "https://www.google.com/imgres?q=tai%20nghe%20bluetooth&imgurl=http%3A%2F%2Fcdn.dienmaygiakhanh.com%2FProducts%2FImages%2F54%2F243041%2Fbluetooth-true-wireless-jbl-t115twswhtas-thumb-1-600x600.jpeg&imgrefurl=https%3A%2F%2Fdienmaygiakhanh.com%2Fphu-kien%2Ftai-nghe-bluetooth-true-wireless-jbl-t115tws-p17354.html&docid=xguGn6OLZXyHYM&tbnid=1VxLbA3kX_LNJM&vet=12ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA",
+              "quantity": 50,
+              "price": 120.00
+            },
+            "variants": {
+              "variantKey2": "Giá trị 2",
+              "variantKey1": "Giá trị 1"
+            }
+          },
+          {
+            "productSKU": {
+              "id": 15,
+              "createdAt": 1729872947000,
+              "updatedAt": null,
+              "createBy": null,
+              "updateBy": null,
+              "productId": null,
+              "image": "https://www.google.com/imgres?q=tai%20nghe%20bluetooth&imgurl=http%3A%2F%2Fcdn.dienmaygiakhanh.com%2FProducts%2FImages%2F54%2F243041%2Fbluetooth-true-wireless-jbl-t115twswhtas-thumb-1-600x600.jpeg&imgrefurl=https%3A%2F%2Fdienmaygiakhanh.com%2Fphu-kien%2Ftai-nghe-bluetooth-true-wireless-jbl-t115tws-p17354.html&docid=xguGn6OLZXyHYM&tbnid=1VxLbA3kX_LNJM&vet=12ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjI7_myzKiJAxU3rlYBHYDbHRsQM3oECFcQAA",
+              "quantity": 50,
+              "price": 130.00
+            },
+            "variants": {
+              "variantKey2": "Giá trị 2",
+              "variantKey1": "Giá trị 1"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
